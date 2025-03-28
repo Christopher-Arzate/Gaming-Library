@@ -1,0 +1,36 @@
+$background-color: #912727;
+
+body {
+  background-color: $background-color;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 20px;
+}
+
+h1 {
+  color: #030000;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.summary-div {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card{
+  background-color: #fcfcfc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+
+  
+}
