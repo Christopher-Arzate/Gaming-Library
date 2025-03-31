@@ -7,7 +7,7 @@ This repository holds my code and documents of my library of games and their cos
 
 - **[Technical Report](https://github.com/Christopher-Arzate/Gaming-Library/blob/main/Technical%20Report.ipynb)**: How I collected the data
 - **[Library Analysis](https://github.com/Christopher-Arzate/Gaming-Library/blob/main/Library%20Analysis.ipynb)**: The analysis of the data 
-- **[Code for dashboard](https://github.com/Christopher-Arzate/Gaming-Library/blob/main/app.py)**: Code for a python dashboard to compliment the analysis 
+- **[Code for dashboard](https://github.com/Christopher-Arzate/Gaming-Library/blob/main/app.py)**: Code for a python dashboard to compliment the analysis (The Dashboard will run locally in your system) 
 
 
 ## Skills and Concepts Utilized
