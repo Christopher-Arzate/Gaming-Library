@@ -5,9 +5,9 @@ This repository holds my code and documents of my library of games and their cos
 
 ## Order to look through
 
-- **Technical Report**
-- **Library Analysis**
-- **Code for dashboard**
+- **[Technical Report](https://github.com/Christopher-Arzate/Gaming-Library/blob/main/Technical%20Report.ipynb)**
+- **[Library Analysis](https://github.com/Christopher-Arzate/Gaming-Library/blob/main/Library%20Analysis.ipynb)**
+- **[Code for dashboard](https://github.com/Christopher-Arzate/Gaming-Library/blob/main/app.py)**
 
 
 ## Skills and Concepts Utilized
